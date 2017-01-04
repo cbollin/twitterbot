@@ -1,0 +1,198 @@
+{
+  "created_at": "Sat Dec 31 23:00:32 +0000 2016",
+  "id": 815331836733886500,
+  "id_str": "815331836733886464",
+  "text": "WSU socks caused quite a stir when people realized they were printed with 'Go Dawgs' on the inside… https://t.co/p4yzZ1kiOQ",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19430999,
+    "id_str": "19430999",
+    "name": "KING 5 News",
+    "screen_name": "KING5Seattle",
+    "location": "Seattle, Washington, USA",
+    "url": "http://www.king5.com",
+    "description": "News, weather, traffic & more for Seattle / Western Washington. NBC affiliate. Email newstips@king5.com",
+    "protected": false,
+    "verified": true,
+    "followers_count": 436449,
+    "friends_count": 7841,
+    "listed_count": 4588,
+    "favourites_count": 25505,
+    "statuses_count": 210560,
+    "created_at": "Sat Jan 24 04:03:33 +0000 2009",
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000033",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/5401596/newsbackgroundhd-lg4.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/5401596/newsbackgroundhd-lg4.jpg",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FEFCF5",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/786718413838127104/1-AHEPaH_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/786718413838127104/1-AHEPaH_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/19430999/1401391712",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "WSU socks caused quite a stir when people realized they were printed with 'Go Dawgs' on the inside https://t.co/r0BXUvjeyv (via @lilitan) https://t.co/PE58yvKvRB",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/r0BXUvjeyv",
+          "expanded_url": "http://kng5.tv/2iOVlTw",
+          "display_url": "kng5.tv/2iOVlTw",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "lilitan",
+          "name": "LiLi Tan",
+          "id": 8002382,
+          "id_str": "8002382",
+          "indices": [
+            128,
+            136
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 815331834699640800,
+          "id_str": "815331834699640832",
+          "indices": [
+            138,
+            161
+          ],
+          "media_url": "http://pbs.twimg.com/media/C1Cj-91W8AAo5b5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C1Cj-91W8AAo5b5.jpg",
+          "url": "https://t.co/PE58yvKvRB",
+          "display_url": "pic.twitter.com/PE58yvKvRB",
+          "expanded_url": "https://twitter.com/KING5Seattle/status/815331836733886464/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 534,
+              "h": 401,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 534,
+              "h": 401,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 534,
+              "h": 401,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 815331834699640800,
+          "id_str": "815331834699640832",
+          "indices": [
+            138,
+            161
+          ],
+          "media_url": "http://pbs.twimg.com/media/C1Cj-91W8AAo5b5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C1Cj-91W8AAo5b5.jpg",
+          "url": "https://t.co/PE58yvKvRB",
+          "display_url": "pic.twitter.com/PE58yvKvRB",
+          "expanded_url": "https://twitter.com/KING5Seattle/status/815331836733886464/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 534,
+              "h": 401,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 534,
+              "h": 401,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 534,
+              "h": 401,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/p4yzZ1kiOQ",
+        "expanded_url": "https://twitter.com/i/web/status/815331836733886464",
+        "display_url": "twitter.com/i/web/status/8…",
+        "indices": [
+          100,
+          123
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1483225232667"
+}
