@@ -1,5 +1,5 @@
 module.exports = {
-  consumer_key:         'JPkeTGaZHZIap7xQb99RDRdw6',
+  consumer_key:         'HERE',
   consumer_secret:      'INSERT HERE',
   access_token:         'HERE-HERE',
   access_token_secret:  'AND HERE',
